@@ -1,0 +1,915 @@
+[
+  {
+    "title": "Бешенство",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "DF2738FCCRC32",
+    "slug": "beshenstvo"
+  },
+  {
+    "title": "COVID-19",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "2a$10$m8YFE.E.2IXcE3p5VJlELeFI5E8Kk8bxtjlVzsf/10znR7U4i3iGW",
+    "slug": "covid-19"
+  },
+  {
+    "title": "Гемофильная  инфекция типа b (Hib)",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "a$10$NndsI3KkCHeUptyhZLEIVuLsqkR53oJMfwuhdSHHtlWyF72UrU5va",
+    "slug": "gemofilnaya-infekcziya-tipa-b-hib"
+  },
+  {
+    "title": "Гепатит А",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "48bd4fe9CRC32",
+    "slug": "gepatit-a"
+  },
+  {
+    "title": "Гепатит B",
+    "vaccines": [
+      {
+        "name": "Регевак B",
+        "firstVaccination": "",
+        "secondVaccination": "",
+        "avatar": null,
+        "slug": "regevak-b"
+      },
+      {
+        "name": "Вакцина от гепатита B",
+        "firstVaccination": "2",
+        "secondVaccination": "19 лет",
+        "avatar": null,
+        "slug": "vakczina-ot-gepatita-b"
+      },
+      {
+        "name": "Бубо-Кок",
+        "firstVaccination": "0",
+        "secondVaccination": "0",
+        "avatar": null,
+        "slug": "bubo-kok"
+      },
+      {
+        "name": "Бубо-М",
+        "firstVaccination": "",
+        "secondVaccination": "",
+        "avatar": null,
+        "slug": "bubo-m"
+      },
+      {
+        "name": "Инфанрикс Гекса",
+        "firstVaccination": "",
+        "secondVaccination": "",
+        "avatar": null,
+        "slug": "infanriks-geksa"
+      }
+    ],
+    "contraindications": [
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Острые состояния средней и высокой степени тяжести."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Плановая вакцинация откладывается до окончания выраженных симптомов острого заболевания или наступления ремиссии в случае обострения хронической болезни.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "! Легкая ОРВИ и ОКИ не являются противопоказанием для плановой вакцинации.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Малый вес при рождении."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Вакцинация откладывается до достижения веса 2 кг (в т. ч. у недоношенных).",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Известная гиперчувствительность к компонентам вакцины или осложнение, в т. ч. реакция гиперчувствительности на предыдущую дозу вакцины."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "! "
+          },
+          {
+            "text": "Экстренная вакцинация после контакта",
+            "bold": true
+          },
+          {
+            "text": " может быть проведена даже на фоне болезни или обострения хронического заболевания."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "! При выраженных иммунодефицитных состояниях вакцинация может быть менее эффективна."
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Нормальные реакции",
+                    "bold": true
+                  },
+                  {
+                    "text": " в первые 1–3 суток после вакцинации: повышение температуры, недомогание, потеря аппетита, раздражительность, рвота, головная боль, реакция в месте инъекции_(боль, отек, покраснение)._"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "! Реакция возникает в 5–10 % случаев. Отсутствие реакции не говорит о неэффективности вакцинации.\\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "! Прививка от гепатита B не вызывает желтуху у новорожденных.",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Серьезные нежелательные явления",
+                    "bold": true
+                  },
+                  {
+                    "text": ": стерильный или инфекционный абсцесс в месте инъекции "
+                  },
+                  {
+                    "text": "(развивается с отсрочкой около недели)",
+                    "italic": true
+                  },
+                  {
+                    "text": ", анафилаксия, лихорадка выше 40 °C, фебрильные судороги, неврит плечевого нерва "
+                  },
+                  {
+                    "text": "(при нарушении техники инъекции)",
+                    "italic": true
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "CRC325e6a1487",
+    "slug": "gepatit-b"
+  },
+  {
+    "title": "Клещевой энцефалит",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "z7TRehfLbwmkaGWem",
+    "slug": "kleshhevoj-enczefalit"
+  },
+  {
+    "title": "Коклюш,  дифтерия, столбняк",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "IBz7TRehfLbwmkaGWem",
+    "slug": "koklyush-difteriya-stolbnyak"
+  },
+  {
+    "title": "Корь,  краснуха, паротит",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "VRDrZ6M4utEFTviJynRWeP5SZBcoUX6",
+    "slug": "kor-krasnuha-parotit"
+  },
+  {
+    "title": "Менингококковая инфекция",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "x2gfmlVRD",
+    "slug": "meningokokkovaya-infekcziya"
+  },
+  {
+    "title": "Пневмококковая инфекция",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "OZvmV0cEWD8Nn",
+    "slug": "pnevmokokkovaya-infekcziya"
+  },
+  {
+    "title": "Полиомиелит",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "YQ25nXMPWIsBwHZzcIM",
+    "slug": "poliomielit"
+  },
+  {
+    "title": "Ротавирусная инфекция",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "WVlWeUz",
+    "slug": "rotavirusnaya-infekcziya"
+  },
+  {
+    "title": "Сезонный грипп",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "1m2yrtOowHsSOu",
+    "slug": "sezonnyj-gripp"
+  },
+  {
+    "title": "Туберкулез",
+    "vaccines": [
+      {
+        "name": "БЦЖ",
+        "firstVaccination": "",
+        "secondVaccination": "",
+        "avatar": null,
+        "slug": "b-cz-zh"
+      },
+      {
+        "name": "БЦЖ-М",
+        "firstVaccination": "",
+        "secondVaccination": "",
+        "avatar": null,
+        "slug": "b-cz-zh-m"
+      }
+    ],
+    "contraindications": [
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Острые состояния средней и высокой степени тяжести."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Плановая вакцинация откладывается до окончания выраженных симптомов острого заболевания или наступления ремиссии в случае обострения хронической болезни.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "! Легкая ОРВИ и ОКИ не являются противопоказанием для плановой вакцинации.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Малый вес при рождении."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Вакцинация откладывается до достижения веса 2 кг (в т. ч. у недоношенных).",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Первичный иммунодефицит, злокачественные новообразования."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "ВИЧ у мамы новорожденного "
+                  },
+                  {
+                    "text": "(если не проводилась трехэтапная терапия ВИЧ)",
+                    "italic": true
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Решение о вакцинации принимается после уточнения ВИЧ-статуса ребенка.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Назначение иммунодепрессантов и лучевой терапии."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Генерализованная инфекция БЦЖ, выявленная у других детей в семье."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Известная гиперчувствительность к компонентам вакцины или осложнение, в т. ч. реакция гиперчувствительности на предыдущую дозу вакцины."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Нормальные реакции",
+                    "bold": true
+                  },
+                  {
+                    "text": " в первые несколько дней: небольшое покраснение в месте инъекции, увеличение региональных лимфоузлов со стороны введения вакцины."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Нормальные реакции с отсрочкой.",
+                    "bold": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Через 4–6 недель "
+          },
+          {
+            "text": "(реже чуть раньше)",
+            "italic": true
+          },
+          {
+            "text": " развивается специфическая реакция: вначале припухлость (инфильтрат), затем более выраженный бугорок "
+          },
+          {
+            "text": "(папула)",
+            "italic": true
+          },
+          {
+            "text": ", который переходит в стадию гнойничка_(пустулы)_ размером около 5–10 мм в диаметре."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "В течение 2-3 месяцев "
+          },
+          {
+            "text": "(иногда и в более длительные сроки)",
+            "italic": true
+          },
+          {
+            "text": " гнойничок затягивается, и формируется рубчик. !"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "! Отсутствие местной реакции и/или рубчика тоже вариант нормы."
+          }
+        ]
+      },
+      {
+        "type": "unordered-list",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "list-item-content",
+                "children": [
+                  {
+                    "text": "Серьезные нежелательные явления",
+                    "bold": true
+                  },
+                  {
+                    "text": "(проявляются с отсрочкой)",
+                    "italic": true
+                  },
+                  {
+                    "text": ": келлоидный рубец, холодный абсцесс, лимфаденит "
+                  },
+                  {
+                    "text": "(в т. ч. гнойный)",
+                    "italic": true
+                  },
+                  {
+                    "text": ", диссеминированная БЦЖ-инфекция "
+                  },
+                  {
+                    "text": "(у лиц с иммунодефицитами)",
+                    "italic": true
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "NUgk1tKsEtOgh",
+    "slug": "tuberkulez"
+  },
+  {
+    "title": "Ветряная оспа",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "GcQaw4W0bP5UT",
+    "slug": "vetryanaya-ospa"
+  },
+  {
+    "title": "Вирус  папилломы человека",
+    "vaccines": [],
+    "contraindications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "reactionsAndComplications": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "id": "DarsQOkzi61QPAKHuWhPDTmcoV",
+    "slug": "virus-papillomy-cheloveka"
+  }
+]

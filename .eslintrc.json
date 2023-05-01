@@ -1,0 +1,40 @@
+{
+  "root": true,
+  "extends": [
+    "@react-native-community",
+    "prettier",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint"],
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"],
+      "rules": {
+        "no-catch-shadow": "off",
+        "no-shadow": "off",
+        "no-undef": "off",
+        "react/react-in-jsx-scope": "off",
+        "react/jsx-no-useless-fragment": "error",
+        "react-native/no-unused-styles": "error",
+        "prettier/prettier": "warn",
+        "@typescript-eslint/no-shadow": "off",
+        "@typescript-eslint/no-non-null-assertion": "off",
+        "@typescript-eslint/no-non-null-asserted-optional-chain": "off",
+        "@typescript-eslint/no-unnecessary-condition": "error",
+        "@typescript-eslint/no-unnecessary-type-assertion": "error",
+        "@typescript-eslint/strict-boolean-expressions": "error",
+        "@typescript-eslint/ban-ts-comment": [
+          "error",
+          {
+            "ts-ignore": "allow-with-description"
+          }
+        ]
+      }
+    }
+  ],
+  "ignorePatterns": ["*.config.js"]
+}

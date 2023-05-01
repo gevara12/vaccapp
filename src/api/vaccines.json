@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Бубо-Кок",
+    "firstVaccination": "0",
+    "secondVaccination": "0",
+    "avatar": null,
+    "slug": "bubo-kok"
+  },
+  {
+    "name": "Регевак b",
+    "firstVaccination": "0",
+    "secondVaccination": "19 лет",
+    "avatar": null,
+    "slug": "regevak-b"
+  },
+  {
+    "name": "Вакцина от гепатита B",
+    "firstVaccination": "2",
+    "secondVaccination": "19 лет",
+    "avatar": null,
+    "slug": "vakczina-ot-gepatita-b"
+  }
+]
