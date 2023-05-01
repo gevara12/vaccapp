@@ -1,4 +1,3 @@
-import { useNavigation } from '@react-navigation/native';
 import { FlashList } from '@shopify/flash-list';
 import { useCallback, useDeferredValue, useMemo, useState } from 'react';
 import { useIntl } from 'react-intl';
@@ -8,7 +7,6 @@ import data from 'src/api/data-updated.json';
 import { ItemCard } from 'src/features/main/components/ItemCard';
 import type { TpInfection } from 'src/features/main/types';
 import { useTheme } from 'src/hooks';
-import { RootStackNavigationProp } from 'src/types';
 
 import styles from './styles';
 
@@ -17,7 +15,7 @@ const keyExtractor = ({ id }) => id;
 export const MainScreen = () => {
   const { formatMessage } = useIntl();
   const colors = useTheme();
-  const navigation = useNavigation<RootStackNavigationProp>();
+
   const [text, onChangeText] = useState('');
   const [isFocused, setIsFocused] = useState(false);
   const deferredQuery = useDeferredValue(text);
@@ -29,15 +27,12 @@ export const MainScreen = () => {
           vaccine.name.toLowerCase().includes(deferredQuery.toLowerCase()),
         ),
     );
-    // return data;
   }, [deferredQuery]);
 
   const placeholderMessage = formatMessage({
     id: 'input.location.placeholder',
     defaultMessage: 'Поиск',
   });
-
-  // const [listVisible, setListVisible] = useState(false);
 
   const onFocusHandler = () => {
     setIsFocused(true);

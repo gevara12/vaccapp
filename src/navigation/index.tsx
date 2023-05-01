@@ -9,17 +9,11 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import DiscoveryBottomTabIcon from 'src/assets/icons/ui/DiscoveryBottomTab.svg';
 import MainBottomTabIcon from 'src/assets/icons/ui/MainBottomTab.svg';
-import HeadingText from 'src/components/HeadingText';
 import { MainScreen } from 'src/features/main';
 import { useTheme } from 'src/hooks';
 import { InfectionScreen } from 'src/screens/InfectionScreen';
 import { InformationScreen } from 'src/screens/InformationScreen';
-import WelcomeScreen from 'src/screens/WelcomeScreen';
-import {
-  BottomBarParamList,
-  InformationTabParamList,
-  RootStackParamList,
-} from 'src/types';
+import { BottomBarParamList, RootStackParamList } from 'src/types';
 
 import HeaderLeft from './components/HeaderLeft';
 import TabIcon from './components/TabIcon';
@@ -28,15 +22,15 @@ import styles from './styles';
 const TabBar = createBottomTabNavigator<BottomBarParamList>();
 const RootStack = createNativeStackNavigator<RootStackParamList>();
 
-const InformationStack = createNativeStackNavigator<InformationTabParamList>();
+// const InformationStack = createNativeStackNavigator<InformationTabParamList>();
 
 const renderHeaderLeft = ({ label }: HeaderBackButtonProps) => {
   return <HeaderLeft label={label} />;
 };
 
-const renderHeaderTitle = ({ children }: { children: string }) => {
-  return <HeadingText style={styles.title}>{children}</HeadingText>;
-};
+// const renderHeaderTitle = ({ children }: { children: string }) => {
+//   return <HeadingText style={styles.title}>{children}</HeadingText>;
+// };
 
 const BottomTabBar = () => {
   const colors = useTheme();
